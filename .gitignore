@@ -1,0 +1,15 @@
+*.log
+*.pot
+*.pyc
+.gitignore~
+*.*~
+.idea/*
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.ropeproject/
+Vagrantfile
+.vagrant
+dist/*
+build/*
+media/*
